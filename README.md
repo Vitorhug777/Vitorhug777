@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, Eu sou o Vitor Hugo</h1>
+<h3 align="center">Um Analista de Dados apaixonado por BI</h3>
 
-<!--
-**Vitorhug777/Vitorhug777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou estagiando como Analista de Dados. **DMAE**
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **Pandas, Data Science com Power BI, ETL e SQL.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Me pergunte sobre **Python, Power BI, SQL e análise.**
+
+- 📫 Você me encontra através de **vitorhug2357@gmail.com**
+
+- 📄 Conheça minhas habilidades [https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/](https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorhug7777&show_icons=true&locale=en&layout=compact" alt="vitorhug7777" /></p>
