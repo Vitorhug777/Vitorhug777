@@ -9,7 +9,7 @@
 
 - 📫 Você me encontra através de **vitorhug2357@gmail.com**
 
-- 📄 Conheça minhas habilidades [https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/](https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/)
+- 📄 Conheça minhas habilidades no meu linkedin e atráves dos meus repositórios: [https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/](https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
