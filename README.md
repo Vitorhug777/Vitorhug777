@@ -10,7 +10,7 @@
 - 📫 Você me encontra através de **vitorhug2357@gmail.com**
 
 - 📄 Conheça minhas habilidades no meu linkedin e atráves dos meus repositórios: [https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/](https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/)
-
+  -Repositório de projetos:https://github.com/Vitorhug777/Projetos-Power-BI-Python
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-hugo-rocha-curcino-816b56294/" height="30" width="40" /></a>
